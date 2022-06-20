@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3MVSnsVeJ4QJMMXm4apYgfkFOpiDI5REDUyFoTzk01V/QIjQP/+UMPZmB31yquBgIpt8NQzj/vsn+aNGfhSDmg==",
+  "success": true,
+  "projectFilePath": "H:\\Development\\CSharp\\HeadsOrTails\\HeadsOrTails\\HeadsOrTails.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\neunz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

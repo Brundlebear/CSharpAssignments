@@ -1,0 +1,17 @@
+H:\Development\CSharp\HeadsOrTails\HeadsOrTails\bin\Debug\netcoreapp3.1\HeadsOrTails.exe
+H:\Development\CSharp\HeadsOrTails\HeadsOrTails\bin\Debug\netcoreapp3.1\HeadsOrTails.deps.json
+H:\Development\CSharp\HeadsOrTails\HeadsOrTails\bin\Debug\netcoreapp3.1\HeadsOrTails.runtimeconfig.json
+H:\Development\CSharp\HeadsOrTails\HeadsOrTails\bin\Debug\netcoreapp3.1\HeadsOrTails.runtimeconfig.dev.json
+H:\Development\CSharp\HeadsOrTails\HeadsOrTails\bin\Debug\netcoreapp3.1\HeadsOrTails.dll
+H:\Development\CSharp\HeadsOrTails\HeadsOrTails\bin\Debug\netcoreapp3.1\HeadsOrTails.pdb
+H:\Development\CSharp\HeadsOrTails\HeadsOrTails\obj\Debug\netcoreapp3.1\HeadsOrTails.csproj.AssemblyReference.cache
+H:\Development\CSharp\HeadsOrTails\HeadsOrTails\obj\Debug\netcoreapp3.1\HeadsOrTails.Form1.resources
+H:\Development\CSharp\HeadsOrTails\HeadsOrTails\obj\Debug\netcoreapp3.1\HeadsOrTails.Properties.Resources.resources
+H:\Development\CSharp\HeadsOrTails\HeadsOrTails\obj\Debug\netcoreapp3.1\HeadsOrTails.csproj.GenerateResource.cache
+H:\Development\CSharp\HeadsOrTails\HeadsOrTails\obj\Debug\netcoreapp3.1\HeadsOrTails.GeneratedMSBuildEditorConfig.editorconfig
+H:\Development\CSharp\HeadsOrTails\HeadsOrTails\obj\Debug\netcoreapp3.1\HeadsOrTails.AssemblyInfoInputs.cache
+H:\Development\CSharp\HeadsOrTails\HeadsOrTails\obj\Debug\netcoreapp3.1\HeadsOrTails.AssemblyInfo.cs
+H:\Development\CSharp\HeadsOrTails\HeadsOrTails\obj\Debug\netcoreapp3.1\HeadsOrTails.csproj.CoreCompileInputs.cache
+H:\Development\CSharp\HeadsOrTails\HeadsOrTails\obj\Debug\netcoreapp3.1\HeadsOrTails.dll
+H:\Development\CSharp\HeadsOrTails\HeadsOrTails\obj\Debug\netcoreapp3.1\HeadsOrTails.pdb
+H:\Development\CSharp\HeadsOrTails\HeadsOrTails\obj\Debug\netcoreapp3.1\HeadsOrTails.genruntimeconfig.cache
