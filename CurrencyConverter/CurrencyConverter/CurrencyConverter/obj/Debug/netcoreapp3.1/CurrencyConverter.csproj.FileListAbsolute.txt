@@ -1,0 +1,17 @@
+G:\LoneStar HW\Summer 2022\CSharp\CurrencyConverter\CurrencyConverter\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.exe
+G:\LoneStar HW\Summer 2022\CSharp\CurrencyConverter\CurrencyConverter\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.deps.json
+G:\LoneStar HW\Summer 2022\CSharp\CurrencyConverter\CurrencyConverter\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.runtimeconfig.json
+G:\LoneStar HW\Summer 2022\CSharp\CurrencyConverter\CurrencyConverter\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.runtimeconfig.dev.json
+G:\LoneStar HW\Summer 2022\CSharp\CurrencyConverter\CurrencyConverter\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.dll
+G:\LoneStar HW\Summer 2022\CSharp\CurrencyConverter\CurrencyConverter\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.pdb
+G:\LoneStar HW\Summer 2022\CSharp\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.csproj.AssemblyReference.cache
+G:\LoneStar HW\Summer 2022\CSharp\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.Form1.resources
+G:\LoneStar HW\Summer 2022\CSharp\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.Properties.Resources.resources
+G:\LoneStar HW\Summer 2022\CSharp\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.csproj.GenerateResource.cache
+G:\LoneStar HW\Summer 2022\CSharp\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.GeneratedMSBuildEditorConfig.editorconfig
+G:\LoneStar HW\Summer 2022\CSharp\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.AssemblyInfoInputs.cache
+G:\LoneStar HW\Summer 2022\CSharp\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.AssemblyInfo.cs
+G:\LoneStar HW\Summer 2022\CSharp\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.csproj.CoreCompileInputs.cache
+G:\LoneStar HW\Summer 2022\CSharp\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.dll
+G:\LoneStar HW\Summer 2022\CSharp\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.pdb
+G:\LoneStar HW\Summer 2022\CSharp\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.genruntimeconfig.cache

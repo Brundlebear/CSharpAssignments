@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G/F7o+7Vc3otCz+Due46vkdkBhxqCJemZ8EA/0w4ipaicPBhDurtTJtJwy0LyK+/2RoVTAsrAxLlKZe2mcH7rQ==",
+  "success": true,
+  "projectFilePath": "G:\\LoneStar HW\\Summer 2022\\CSharp\\CurrencyConverter\\CurrencyConverter\\CurrencyConverter\\CurrencyConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\neunz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
