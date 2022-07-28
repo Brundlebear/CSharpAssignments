@@ -1,0 +1,9 @@
+C:\Users\neunz\source\repos\RockPaperScissorsKBrundage\RockPaperScissorsKBrundage\bin\Debug\RockPaperScissorsKBrundage.exe
+C:\Users\neunz\source\repos\RockPaperScissorsKBrundage\RockPaperScissorsKBrundage\bin\Debug\RockPaperScissorsKBrundage.pdb
+C:\Users\neunz\source\repos\RockPaperScissorsKBrundage\RockPaperScissorsKBrundage\obj\Debug\RockPaperScissorsKBrundage.csproj.AssemblyReference.cache
+C:\Users\neunz\source\repos\RockPaperScissorsKBrundage\RockPaperScissorsKBrundage\obj\Debug\RockPaperScissorsKBrundage.Form1.resources
+C:\Users\neunz\source\repos\RockPaperScissorsKBrundage\RockPaperScissorsKBrundage\obj\Debug\RockPaperScissorsKBrundage.Properties.Resources.resources
+C:\Users\neunz\source\repos\RockPaperScissorsKBrundage\RockPaperScissorsKBrundage\obj\Debug\RockPaperScissorsKBrundage.csproj.GenerateResource.cache
+C:\Users\neunz\source\repos\RockPaperScissorsKBrundage\RockPaperScissorsKBrundage\obj\Debug\RockPaperScissorsKBrundage.csproj.CoreCompileInputs.cache
+C:\Users\neunz\source\repos\RockPaperScissorsKBrundage\RockPaperScissorsKBrundage\obj\Debug\RockPaperScissorsKBrundage.exe
+C:\Users\neunz\source\repos\RockPaperScissorsKBrundage\RockPaperScissorsKBrundage\obj\Debug\RockPaperScissorsKBrundage.pdb
