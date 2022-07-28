@@ -1,0 +1,9 @@
+G:\LoneStar HW\Summer 2022\CSharp\FreezingAndBoilingKBrundage\FreezingAndBoilingKBrundage\obj\Debug\FreezingAndBoilingKBrundage.csproj.AssemblyReference.cache
+G:\LoneStar HW\Summer 2022\CSharp\FreezingAndBoilingKBrundage\FreezingAndBoilingKBrundage\obj\Debug\FreezingAndBoilingKBrundage.Form1.resources
+G:\LoneStar HW\Summer 2022\CSharp\FreezingAndBoilingKBrundage\FreezingAndBoilingKBrundage\obj\Debug\FreezingAndBoilingKBrundage.Properties.Resources.resources
+G:\LoneStar HW\Summer 2022\CSharp\FreezingAndBoilingKBrundage\FreezingAndBoilingKBrundage\obj\Debug\FreezingAndBoilingKBrundage.csproj.GenerateResource.cache
+G:\LoneStar HW\Summer 2022\CSharp\FreezingAndBoilingKBrundage\FreezingAndBoilingKBrundage\obj\Debug\FreezingAndBoilingKBrundage.csproj.CoreCompileInputs.cache
+G:\LoneStar HW\Summer 2022\CSharp\FreezingAndBoilingKBrundage\FreezingAndBoilingKBrundage\bin\Debug\FreezingAndBoilingKBrundage.exe
+G:\LoneStar HW\Summer 2022\CSharp\FreezingAndBoilingKBrundage\FreezingAndBoilingKBrundage\bin\Debug\FreezingAndBoilingKBrundage.pdb
+G:\LoneStar HW\Summer 2022\CSharp\FreezingAndBoilingKBrundage\FreezingAndBoilingKBrundage\obj\Debug\FreezingAndBoilingKBrundage.exe
+G:\LoneStar HW\Summer 2022\CSharp\FreezingAndBoilingKBrundage\FreezingAndBoilingKBrundage\obj\Debug\FreezingAndBoilingKBrundage.pdb
