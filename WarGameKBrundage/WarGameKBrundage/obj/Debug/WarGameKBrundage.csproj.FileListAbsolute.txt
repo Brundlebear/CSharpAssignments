@@ -1,0 +1,9 @@
+G:\LoneStar HW\Summer 2022\CSharp\WarGameKBrundage\WarGameKBrundage\bin\Debug\WarGameKBrundage.exe
+G:\LoneStar HW\Summer 2022\CSharp\WarGameKBrundage\WarGameKBrundage\bin\Debug\WarGameKBrundage.pdb
+G:\LoneStar HW\Summer 2022\CSharp\WarGameKBrundage\WarGameKBrundage\obj\Debug\WarGameKBrundage.csproj.AssemblyReference.cache
+G:\LoneStar HW\Summer 2022\CSharp\WarGameKBrundage\WarGameKBrundage\obj\Debug\WarGameKBrundage.Form1.resources
+G:\LoneStar HW\Summer 2022\CSharp\WarGameKBrundage\WarGameKBrundage\obj\Debug\WarGameKBrundage.Properties.Resources.resources
+G:\LoneStar HW\Summer 2022\CSharp\WarGameKBrundage\WarGameKBrundage\obj\Debug\WarGameKBrundage.csproj.GenerateResource.cache
+G:\LoneStar HW\Summer 2022\CSharp\WarGameKBrundage\WarGameKBrundage\obj\Debug\WarGameKBrundage.csproj.CoreCompileInputs.cache
+G:\LoneStar HW\Summer 2022\CSharp\WarGameKBrundage\WarGameKBrundage\obj\Debug\WarGameKBrundage.exe
+G:\LoneStar HW\Summer 2022\CSharp\WarGameKBrundage\WarGameKBrundage\obj\Debug\WarGameKBrundage.pdb
