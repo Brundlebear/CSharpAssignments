@@ -1,0 +1,10 @@
+G:\LoneStar HW\Summer 2022\CSharp\AstronomyHelperKBrundage\AstronomyHelperKBrundage\obj\Debug\AstronomyHelperKBrundage.csproj.AssemblyReference.cache
+G:\LoneStar HW\Summer 2022\CSharp\AstronomyHelperKBrundage\AstronomyHelperKBrundage\obj\Debug\AstronomyHelperKBrundage.Form1.resources
+G:\LoneStar HW\Summer 2022\CSharp\AstronomyHelperKBrundage\AstronomyHelperKBrundage\obj\Debug\AstronomyHelperKBrundage.Properties.Resources.resources
+G:\LoneStar HW\Summer 2022\CSharp\AstronomyHelperKBrundage\AstronomyHelperKBrundage\obj\Debug\AstronomyHelperKBrundage.csproj.GenerateResource.cache
+G:\LoneStar HW\Summer 2022\CSharp\AstronomyHelperKBrundage\AstronomyHelperKBrundage\obj\Debug\AstronomyHelperKBrundage.csproj.CoreCompileInputs.cache
+G:\LoneStar HW\Summer 2022\CSharp\AstronomyHelperKBrundage\AstronomyHelperKBrundage\bin\Debug\AstronomyHelperKBrundage.exe
+G:\LoneStar HW\Summer 2022\CSharp\AstronomyHelperKBrundage\AstronomyHelperKBrundage\bin\Debug\AstronomyHelperKBrundage.pdb
+G:\LoneStar HW\Summer 2022\CSharp\AstronomyHelperKBrundage\AstronomyHelperKBrundage\obj\Debug\AstronomyHelperKBrundage.exe
+G:\LoneStar HW\Summer 2022\CSharp\AstronomyHelperKBrundage\AstronomyHelperKBrundage\obj\Debug\AstronomyHelperKBrundage.pdb
+G:\LoneStar HW\Summer 2022\CSharp\AstronomyHelperKBrundage\AstronomyHelperKBrundage\obj\Debug\AstronomyHelperKBrundage.PlanetForm.resources

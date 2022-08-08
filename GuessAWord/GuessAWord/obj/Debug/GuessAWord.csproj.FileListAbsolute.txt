@@ -1,0 +1,9 @@
+G:\LoneStar HW\Summer 2022\CSharp\GuessAWord\GuessAWord\bin\Debug\GuessAWord.exe
+G:\LoneStar HW\Summer 2022\CSharp\GuessAWord\GuessAWord\bin\Debug\GuessAWord.pdb
+G:\LoneStar HW\Summer 2022\CSharp\GuessAWord\GuessAWord\obj\Debug\GuessAWord.csproj.AssemblyReference.cache
+G:\LoneStar HW\Summer 2022\CSharp\GuessAWord\GuessAWord\obj\Debug\GuessAWord.Form1.resources
+G:\LoneStar HW\Summer 2022\CSharp\GuessAWord\GuessAWord\obj\Debug\GuessAWord.Properties.Resources.resources
+G:\LoneStar HW\Summer 2022\CSharp\GuessAWord\GuessAWord\obj\Debug\GuessAWord.csproj.GenerateResource.cache
+G:\LoneStar HW\Summer 2022\CSharp\GuessAWord\GuessAWord\obj\Debug\GuessAWord.csproj.CoreCompileInputs.cache
+G:\LoneStar HW\Summer 2022\CSharp\GuessAWord\GuessAWord\obj\Debug\GuessAWord.exe
+G:\LoneStar HW\Summer 2022\CSharp\GuessAWord\GuessAWord\obj\Debug\GuessAWord.pdb
